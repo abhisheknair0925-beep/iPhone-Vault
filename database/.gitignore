@@ -1,1 +1,1 @@
-*.sqlite*
+# Allow sqlite databases for serverless demo bundling
