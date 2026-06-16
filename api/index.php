@@ -1,6 +1,4 @@
 <?php
-echo "Index PHP Version: " . PHP_VERSION;
-exit;
 
 // Create a writable directory for compiled Blade templates in serverless /tmp
 if (!is_dir('/tmp/views')) {
